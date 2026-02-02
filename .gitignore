@@ -1,0 +1,16 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.idea/
+*.iml
+.vscode/
+
+# Don't ignore web build - we need it for GitHub Pages
+!build/web/
